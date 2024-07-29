@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA Laboratorio 1", "PA Laboratorio 1\PA Laboratorio 1.csproj", "{04955AD1-04F3-4104-9859-9DF1F2FC086B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda en linea POO", "Tienda en linea POO\Tienda en linea POO.csproj", "{0D89A996-B55A-4428-B84A-A7BD193F4C71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{04955AD1-04F3-4104-9859-9DF1F2FC086B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04955AD1-04F3-4104-9859-9DF1F2FC086B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04955AD1-04F3-4104-9859-9DF1F2FC086B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D89A996-B55A-4428-B84A-A7BD193F4C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D89A996-B55A-4428-B84A-A7BD193F4C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D89A996-B55A-4428-B84A-A7BD193F4C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D89A996-B55A-4428-B84A-A7BD193F4C71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
